@@ -1,0 +1,12 @@
+{
+  "name": "vue-cli-plugin-base-plugin-template",
+  "version": "1.0.0",
+  "description": "vue-cli插件基础模板生成器",
+  "author": "zhp",
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "license": "ISC"
+}
